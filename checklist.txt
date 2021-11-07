@@ -1,0 +1,5 @@
+1) All the Requirements finalized and analyzed	     -     Done
+2) Test Plan created and reviewed	             -     Done
+3) Test Cases preparation done	
+4) Test Case review and sign off	
+5) Test Data availability
