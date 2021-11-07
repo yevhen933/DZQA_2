@@ -1,0 +1,8 @@
+1)Summary -
+2)Step to reproduce -
+3)Actual result -
+4)Expected result -
+5)Severity -
+6)Priority -
+7)Attachments -
+8)Enviroment -
